@@ -1,0 +1,2 @@
+# albert_bilstm_crf_ner
+规范代码的Bert系列用于序列标注
